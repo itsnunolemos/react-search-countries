@@ -1,0 +1,19 @@
+
+/**
+ * Country block style.
+ */
+
+.country-block {
+  margin-top: 40px;
+  max-width: 300px;
+
+  h3 {
+    margin-bottom: 10px;
+  }
+
+  &__divide {
+    span {
+      margin-right: 10px;
+    }
+  }
+}

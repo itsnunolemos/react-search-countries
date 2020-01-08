@@ -1,0 +1,11 @@
+
+/*
+ * Export `CountryActionTypes`.
+ */
+
+export default {
+  GET_COUNTRIES: 'GET_COUNTRIES',
+  FETCH_COUNTRIES: 'FETCH_COUNTRIES',
+  GET_COUNTRY: 'GET_COUNTRY',
+  RESET_COUNTRY: 'RESET_COUNTRY'
+};
